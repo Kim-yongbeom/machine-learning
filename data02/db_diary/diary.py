@@ -23,8 +23,10 @@ def create(vo):
     # Cursor 객체의 execute() 메서드를 사용하여 SQL 문장을 DB 서버에 보낸다.
     result = cur.execute(sql, vo)
     print('3. sql문을 만들어서 mysql로 보낸다.', result)
-
+    
+    # 디폴트로 Autocommit 이 아니므로 commit()을 명시적으로 호출한다. 자동커밋을 원하는 경우, connect() 메서드 호출시 autocommit=True 를 지정한다.
     conn.commit()
+    # Connection 객체의 close() 메서드를 사용하여 DB 연결을 닫는다.
     conn.close()
 
 def update(vo):
