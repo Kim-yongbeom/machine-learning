@@ -14,10 +14,10 @@
 - b: ai server, django(python)
   - first: 'shoes'
   - second: 'computer'
-   -
+   
    - # json
    - {first: 'shoes', second: 'computer'}
-   -
+   
    - # XML -> 항목이 태그로 들어감
    - <first>shoes</first>
    - <second>computer</second>
