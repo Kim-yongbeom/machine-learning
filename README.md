@@ -19,8 +19,8 @@
    - {first: 'shoes', second: 'computer'}
    
    - # XML -> 항목이 태그로 들어감
-   - <first>shoes</first>
-   - <second>computer</second>
+   - '<first>shoes</first>'
+   - '<second>computer</second>'
 - c: db server
 
 
