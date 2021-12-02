@@ -20,3 +20,12 @@
 
 ### F1-Score
 - 정밀도와 재현율이 모두 중요한 경우
+
+### 쓰는법
+- from sklearn.metrics import f1_score, roc_auc_score
+- from sklearn.metrics import precision_score, recall_score
+  - print(accuracy_score(y_test, pred))
+  - print(precision_score(y_test,pred))
+  - print(recall_score(y_test, pred))
+  - print(f1_score(y_test, pred))
+  - print(roc_auc_score(y_test,pred))
