@@ -10,3 +10,19 @@
 
 ### 이상치 제거 (1%, 99%)
 <img width="783" alt="스크린샷 2021-12-03 오후 5 18 45" src="https://user-images.githubusercontent.com/89058117/144569087-9349ba88-86c0-4274-bcbc-d8f471f632d0.png">
+
+### 사용된 라이브러리
+- from sklearn.model_selection import train_test_split (train, test 분리)
+- from sklearn.model_selection import cross_val_score (최적 모델 찾기 -> 파라미터값 default)
+- from sklearn.model_selection import GridSearchCV (모델을 사용해 적합한 파라미터값 찾기)
+- from sklearn.metrics import classification_report (data06에 이 라이브러리 설명되어있음)
+
+### 모델별 파라미터 설정값
+- model = [dt_clf, rf_clf, lr_clf, svm_svc, knn]
+  - pa = [{'max_depth':[2,3,5,10],
+    -'min_samples_split':[2,3,5], 'min_samples_leaf':[1,5,8]},
+    -{'max_depth':[2,3,5,10],'min_samples_split':[2,3,5], 'min_samples_leaf':[1,5,8]},
+    -{'penalty':['l2', 'l1'],'C':[0.01, 0.1, 1, 1, 5, 10]},
+    -{'kernel': ['rbf'],'gamma': [0.00001,0.0001, 0.001, 0.01, 0.1, 1],
+    -{'C': [0.01, 0.1, 1, 10, 100, 1000]},
+    -{'n_neighbors' : list(range(1,20))}]
