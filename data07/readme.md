@@ -18,11 +18,13 @@
 - from sklearn.metrics import classification_report (data06에 이 라이브러리 설명되어있음)
 
 ### 모델별 파라미터 설정값
-- model = [dt_clf, rf_clf, lr_clf, svm_svc, knn]
-  - pa = [{'max_depth':[2,3,5,10],
-    -'min_samples_split':[2,3,5], 'min_samples_leaf':[1,5,8]},
-    -{'max_depth':[2,3,5,10],'min_samples_split':[2,3,5], 'min_samples_leaf':[1,5,8]},
-    -{'penalty':['l2', 'l1'],'C':[0.01, 0.1, 1, 1, 5, 10]},
-    -{'kernel': ['rbf'],'gamma': [0.00001,0.0001, 0.001, 0.01, 0.1, 1],
-    -{'C': [0.01, 0.1, 1, 10, 100, 1000]},
-    -{'n_neighbors' : list(range(1,20))}]
+```
+# model = [dt_clf, rf_clf, lr_clf, svm_svc, knn]
+#     pa = [{'max_depth':[2,3,5,10],
+#                  'min_samples_split':[2,3,5], 'min_samples_leaf':[1,5,8]},
+#           {'max_depth':[2,3,5,10],'min_samples_split':[2,3,5], 'min_samples_leaf':[1,5,8]},
+#           {'penalty':['l2', 'l1'],'C':[0.01, 0.1, 1, 1, 5, 10]},
+#            {'kernel': ['rbf'],'gamma': [0.00001,0.0001, 0.001, 0.01, 0.1, 1],
+#             'C': [0.01, 0.1, 1, 10, 100, 1000]},
+#            {'n_neighbors' : list(range(1,20))}]
+```
