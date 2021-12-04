@@ -1,4 +1,4 @@
-# 머신러닝 미니프로젝트
+# 머신러닝 미니프로젝트 (롤 승리판단)
 
 ![screencapture-notion-so-mini-mini-project-05929ae2eddd4be3a4e1ec57414a8343-2021-12-03-17_00_00](https://user-images.githubusercontent.com/89058117/144566731-c8eb4906-7c02-4bbd-b683-0dc9ae5d4d10.png)
 
