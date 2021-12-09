@@ -1,5 +1,4 @@
-# !
-![KakaoTalk_Photo_2021-12-09-09-22-03](https://user-images.githubusercontent.com/89058117/145312010-b70bcd1e-ed09-4b53-b5f4-f106a305ffa3.jpeg)
+# 머신러닝 중요 개념
 
 ### 비지도학습/지도학습 차이
 
@@ -8,3 +7,28 @@
 ### Loss function 이란?
 
 ### 경사하강법이란? 언제사용하는가?
+
+### 경사하강법에서 y축은 무엇인가?
+
+### Decison tree에서 gini와 엔트로피는 왜 사용하는가?
+
+### 아래 트리 노드로 분리해서 내려올 때 지니와 엔트로피는 어떻게 되어야 하는가?
+
+### dt에서 아래 트리 노드로 분리해서 내려올 때 loss function(cost function)은 어떻게 되어야 할까?
+
+### dt애서 아래 트리 노드로 분리해서 내려올 때 infomation gain은 어떻게 되어야 할까?
+
+### information gain은 어떻게 구하는 걸까?
+
+### 오버피팅과 언더피팅의 차이
+
+### 오버피팅 해결 방법 2가지?
+
+### 언더피팅 해결 방법 2가지?
+
+### 데이터 프레임의 설명변수의 데이터 타입은?
+
+### 데이터 프레임의 종속변수의 데이터 타입은?
+
+
+![KakaoTalk_Photo_2021-12-09-09-22-03](https://user-images.githubusercontent.com/89058117/145312010-b70bcd1e-ed09-4b53-b5f4-f106a305ffa3.jpeg)
