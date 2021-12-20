@@ -19,6 +19,7 @@
 
 ### 테이블 만들기
 - create table 원하는이름 ( id varchar(100), pw varchar(100), name varchar(100), tel varchar(100));
+- create table 원하는이름 ( id int primary key auto_increment, pw varchar(100), name varchar(100), tel varchar(100));
 
 ### 테이블 row생성
 - insert into 테이블명 values ('200','200','200','200');
