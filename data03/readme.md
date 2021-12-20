@@ -48,6 +48,9 @@
 ### DBeaver에서 데이터베이스에 csv 파일 넣기
 <img width="371" alt="스크린샷 2021-12-20 오후 12 18 48" src="https://user-images.githubusercontent.com/89058117/146706916-2abfea58-9d32-424e-bc7b-149ae5e7c5df.png">
 
+### DBeaver에서 외래키 설정
+<img width="707" alt="스크린샷 2021-12-20 오후 5 35 00" src="https://user-images.githubusercontent.com/89058117/146737210-d3f19847-bf52-4b67-b6c1-8d1def33a85c.png">
+
 
 ### 데이터프레임 다루기
 - 1. 데이터를 분석하기전 행렬구조의 데이터를 넣는 구조는?  '데이터프레임'
