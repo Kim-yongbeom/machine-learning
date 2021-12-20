@@ -42,3 +42,7 @@
 - on join시 기준이 되는 컬럼을 지정
 - 기준에 해당하는 값들이 양쪽 테이블에 있는 경우 : inner join
 - 기준에 해당하는 값이 없는 경우 : outer join
+
+
+<img width="594" alt="스크린샷 2021-12-20 오후 5 46 49" src="https://user-images.githubusercontent.com/89058117/146738664-004d370b-5b01-4a86-b0a7-dc0a3db17f9b.png">
+
