@@ -14,6 +14,9 @@
 ### 데이터 베이스 만들기
 - create database 원하는이름
 
+### 데이터 베이스 사용하기
+- use bigdata;
+
 ### 테이블 만들기
 - create table 원하는이름 ( id varchar(100), pw varchar(100), name varchar(100), tel varchar(100));
 
