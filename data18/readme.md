@@ -6,6 +6,16 @@
 
 ![캡처](https://user-images.githubusercontent.com/89058117/146698511-44013f86-68f9-4ca0-9609-13ddaa06471f.PNG)
 
+### SQL
+- DDL (Data Definition Language)
+  - db생성/수정/삭제, table 생성/수정/삭제
+  - create, alter, drop
+- DML (Data Manipulation Languagem)
+  - CRUD
+  - insert, select, update, delete
+- DCL (Data Control Language)
+  - 계정관리, 백업/복구
+
 ### 정규화가 왜 필요한가
 - 이상현상이 발생
 
