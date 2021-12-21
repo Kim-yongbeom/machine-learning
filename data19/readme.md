@@ -1,4 +1,4 @@
-# mysql 데이터베이스 관리
+# mysql 데이터베이스 관리!
 
 <img width="916" alt="스크린샷 2021-12-21 오전 11 24 23" src="https://user-images.githubusercontent.com/89058117/146862476-5eecadaa-8648-4a58-b803-f1ed6ff9046d.png">
 
