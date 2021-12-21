@@ -2,6 +2,9 @@
 
 <img width="916" alt="스크린샷 2021-12-21 오전 11 24 23" src="https://user-images.githubusercontent.com/89058117/146862476-5eecadaa-8648-4a58-b803-f1ed6ff9046d.png">
 
+### DBeaver 에서 sql문 사용
+<img width="1055" alt="스크린샷 2021-12-21 오후 3 43 17" src="https://user-images.githubusercontent.com/89058117/146883974-fb3215ac-ba71-4795-b3b5-e74479456f38.png">
+
 ```
 -- 현재 접속한 db와 사용할 db가 다른 상태
 
