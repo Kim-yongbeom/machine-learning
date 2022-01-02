@@ -10,4 +10,4 @@
 - train_score, test_score를 비교했을 때, 기존보다 overfit이 비교적 덜 된것으로 보임.
 - test rmse 역시 감소한 것을 볼 수 있음.
 
-# 앙상블기법에서 boost사용
+# 앙상블기법에서 boost사용!!
